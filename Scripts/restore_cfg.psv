@@ -140,3 +140,16 @@ S|${HOME}/.config/hypr|hyprlock|hyprlock
 
  Idle daemon 
 P|${HOME}/.config/hypr|hypridle.conf|hypridle
+
+ prefrences 
+O|${HOME}/.config/mpd|mpd
+O|${HOME}/.config/mpv|mpv
+O|${HOME}/.config/sptlrx|sptlrx
+O|${HOME}/.config/yazi|yazi
+O|${HOME}/.config/tmux|tmux
+O|${HOME}/.config/nvim|neovim
+O|${HOME}/.config/nvim|neovim
+O|${HOME}/.config/rmpc|rmpc
+
+
+
